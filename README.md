@@ -79,7 +79,7 @@ Event Details Screen
 
 Clone this repository:
 
-git clone https://github.com//EventOrganizerApp.git
+git clone [https://github.com//EventOrganizerApp.git](https://github.com/RashmiVidushani/schedula.git)
 
 cd EventOrganizerApp
 

@@ -3,6 +3,11 @@
 A modern Event Management App built with React Native, allowing users to seamlessly create, explore, and manage events in their community. 
 Integrated with Firebase Authentication and Cloud Firestore, the app provides real-time data storage, user authentication, and personalized features like favorites and event editing.
 
+Demo
+
+
+
+
 📱 Features
 
 Authentication

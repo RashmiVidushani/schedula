@@ -51,28 +51,37 @@ UI/UX Design
 
   
 📸 Screenshots
+
 Sign In Screen
+
 <img width="304" alt="Screenshot 2025-04-11 at 7 33 32 PM" src="https://github.com/user-attachments/assets/3420b28e-b63c-49a8-9092-9a36ab137604" />
 
 Sign Up Screen
+
 <img width="304" alt="Screenshot 2025-04-11 at 7 33 37 PM" src="https://github.com/user-attachments/assets/1c518abe-e702-4b5d-8893-9fe2864e63d3" />
 
 Dashboard Screen
+
 <img width="304" alt="Screenshot 2025-04-11 at 7 31 13 PM" src="https://github.com/user-attachments/assets/28187752-09f9-4371-8a2b-3f3c24242a73" />
 
 Create Event screen
+
 <img width="304" alt="Screenshot 2025-04-11 at 7 31 19 PM" src="https://github.com/user-attachments/assets/e0db4aa4-88db-4b73-9934-ac46c53a6142" />
 
 Favorites Screen
+
 <img width="304" alt="Screenshot 2025-04-11 at 7 31 23 PM" src="https://github.com/user-attachments/assets/4fe440f6-7867-4d29-86d3-82ec891c94da" />
 
 Settings Screen
+
 <img width="304" alt="Screenshot 2025-04-11 at 7 31 31 PM" src="https://github.com/user-attachments/assets/04381261-fab7-42d6-9a4b-2460870fea22" />
 
 Profile Screen
+
 <img width="304" alt="Screenshot 2025-04-11 at 7 31 27 PM" src="https://github.com/user-attachments/assets/432e6b34-0ac3-4565-b703-b7f9d155145f" />
 
 Event Details Screen
+
 <img width="304" alt="Screenshot 2025-04-11 at 8 05 42 PM" src="https://github.com/user-attachments/assets/237a02f0-1b69-47ab-af4f-f01ba97c752d" />
 
 🚀 Setup & Installation
